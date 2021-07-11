@@ -27,12 +27,34 @@ img{
     justify-content: space-evenly;
     justify-self: center;
     padding: 2% 30% 2% 30%;
-
-
 }
 i{
     font-size: 30px;
 }
 
+.fa-user:hover{
+    color:blueviolet;
+}
 
+.fa-github:hover{
+    color:blueviolet;
+}
+
+.fa-linkedin:hover{
+    color:blueviolet;
+}
+
+.fa-book:hover{
+    color:blueviolet;
+}
+.fa-certificate:hover{
+    color:blueviolet;
+}
+
+.fa-graduation-cap:hover{
+    color:blueviolet;
+}
+.fa-pencil:hover{
+    color:blueviolet;
+}
 
